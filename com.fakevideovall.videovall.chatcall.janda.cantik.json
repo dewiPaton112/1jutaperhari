@@ -1,0 +1,91 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Fake Call Cewek Gemoy",
+      "image": "file:///android_asset/image/cewekgemoy",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.chatcall.cewek.gemoy"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Prank Pacar Video Call Janda",
+      "image_url": "file:///android_asset/image/gambarjandacantik1",
+      "video_url": "jandacantik1",
+      "voice_url": "suarajandacantik1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Prank Pacar Video Call Janda",
+      "image_url": "file:///android_asset/image/gambarjandacantik2",
+      "video_url": "jandacantik2",
+      "voice_url": "suarajandacantik2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Prank Pacar Video Call Janda",
+      "image_url": "file:///android_asset/image/gambarjandacantik3",
+      "video_url": "jandacantik3",
+      "voice_url": "suarajandacantik3"
+    },
+    {
+      "id": 3,
+      "name": "Prank Pacar Video Call Janda",
+      "image_url": "file:///android_asset/image/gambarjandacantik4",
+      "video_url": "jandacantik4",
+      "voice_url": "suarajandacantik4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Prank Pacar Video Call Janda",
+      "image_url": "file:///android_asset/image/gambarjandacantik5",
+      "video_url": "jandacantik5",
+      "voice_url": "suarajandacantik5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Prank Pacar Video Call Janda",
+      "image_url": "file:///android_asset/image/gambarjandacantik6",
+      "video_url": "jandacantik6",
+      "voice_url": "suarajandacantik6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Prank Pacar Video Call Janda",
+      "image_url": "file:///android_asset/image/gambarjandacantik7",
+      "video_url": "jandacantik7",
+      "voice_url": "suarajandacantik7.mp3"
+    }
+  ]
+}
