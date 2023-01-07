@@ -1,0 +1,97 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Prank Pacar Video Call Janda",
+      "image": "file:///android_asset/image/jandaprankpacar.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.janda"
+    },
+    {
+      "id": 2,
+      "title": "Fake Call cewek Gemoy",
+      "image": "file:///android_asset/image/cewekgemoy",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewek.gemoy"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Cewek Sma",
+      "image_url": "file:///android_asset/image/gambarceweksma1.png",
+      "video_url": "ceweksma1",
+      "voice_url": "suaraceweksma1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call cewek Sma",
+      "image_url": "file:///android_asset/image/gambarceweksma2.png",
+      "video_url": "ceweksma2",
+      "voice_url": "suaraceweksma2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call cewek Sma",
+      "image_url": "file:///android_asset/image/gambarceweksma3.png",
+      "video_url": "ceweksma3",
+      "voice_url": "suaraceweksma3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call cewek Sma",
+      "image_url": "file:///android_asset/image/gambarceweksma4.png",
+      "video_url": "ceweksma4",
+      "voice_url": "suaraceweksma4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call cewek Sma",
+      "image_url": "file:///android_asset/image/gambarceweksma5.png",
+      "video_url": "ceweksma5",
+      "voice_url": "suaraceweksma5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call cewek Sma",
+      "image_url": "file:///android_asset/image/gambarceweksma6.png",
+      "video_url": "ceweksma6",
+      "voice_url": "suaraceweksma6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Fake Call cewek Sma",
+      "image_url": "file:///android_asset/image/gambarceweksma7.png",
+      "video_url": "ceweksma7",
+      "voice_url": "suaraceweksma7.mp3"
+    }
+  ]
+}
