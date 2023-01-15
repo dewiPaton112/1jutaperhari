@@ -1,0 +1,127 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "Prank Pacar Video Call Janda",
+      "image": "file:///android_asset/image/jandaprankpacar.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.janda"
+    },
+    {
+      "id": 2,
+      "title": "FAke Call Cewek Gemoy",
+      "image": "file:///android_asset/image/cewekgemoy.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewek.gemoy"
+    },
+    {
+      "id": 3,
+      "title": "FAke Call Cewek Sma",
+      "image": "file:///android_asset/image/ceweksma.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewek.sma"
+    },
+    {
+      "id": 4,
+      "title": "FAke Call Cewek Prank Pacar",
+      "image": "file:///android_asset/image/callcewekprankpacar.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewe.pramk.pacar"
+    },
+    {
+      "id": 5,
+      "title": "FAke Call Cowok Prank Pacar",
+      "image": "file:///android_asset/image/callcowokprankpacar.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cowok.prank.pacar"
+    },
+    {
+      "id": 6,
+      "title": "FAke Call Cewek Chindo",
+      "image": "file:///android_asset/image/chindo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewe.pramk.pacar"
+    },
+    {
+      "id": 7,
+      "title": "FAke Call Cewek Korea Cantik",
+      "image": "file:///android_asset/image/koreaid.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewek.korea.cantik"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/girlsjepang1.png",
+      "video_url": "girlsjepang1",
+      "voice_url": "girlsjepang1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/girlsjepang2.png",
+      "video_url": "girlsjepang2",
+      "voice_url": "girlsjepangr2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/girlsjepang3.png",
+      "video_url": "girlsjepang3",
+      "voice_url": "girlsjepang3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/girlsjepang4.png",
+      "video_url": "girlsjepang4",
+      "voice_url": "girlsjepang4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/girlsjepang5.png",
+      "video_url": "girlsjepang5",
+      "voice_url": "girlsjepang5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/girlsjepang6.png",
+      "video_url": "girlsjepang6",
+      "voice_url": "girlsjepang6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Fake Call Cewek Jepang",
+      "image_url": "file:///android_asset/image/girlsjepang7.png",
+      "video_url": "girlsjepang7",
+      "voice_url": "girlsjepang7.mp3"
+    }
+  ]
+}
