@@ -1,0 +1,121 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "FAke Call Cewek Jepang",
+      "image": "file:///android_asset/image/jepangid.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewek.jepang.cantik"
+    },
+    {
+      "id": 2,
+      "title": "FAke Call Cewek Sma",
+      "image": "file:///android_asset/image/ceweksma.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewek.sma"
+    },
+    {
+      "id": 3,
+      "title": "FAke Call Cewek Prank Pacar",
+      "image": "file:///android_asset/image/callcewekprankpacar.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewe.pramk.pacar"
+    },
+    {
+      "id": 4,
+      "title": "FAke Call Cowok Prank Pacar",
+      "image": "file:///android_asset/image/callcowokprankpacar.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cowok.prank.pacar"
+    },
+    {
+      "id": 5,
+      "title": "FAke Call Cewek Chindo",
+      "image": "file:///android_asset/image/chindo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewe.pramk.pacar"
+    },
+    {
+      "id": 6,
+      "title": "FAke Call Cewek Korea Cantik",
+      "image": "file:///android_asset/image/koreaid.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewek.korea.cantik"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Fake Call Cewek Idaman",
+      "image_url": "file:///android_asset/image/cewekidaman1.png",
+      "video_url": "cewekidaman1",
+      "voice_url": "cewekidaman1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Fake Call Cewek Idaman",
+      "image_url": "file:///android_asset/image/cewekidaman2.png",
+      "video_url": "cewekidaman2",
+      "voice_url": "cewekidamanr2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Fake Call Cewek Idaman",
+      "image_url": "file:///android_asset/image/cewekidaman3.png",
+      "video_url": "cewekidaman3",
+      "voice_url": "cewekidaman3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Fake Call Cewek Idaman",
+      "image_url": "file:///android_asset/image/cewekidaman4.png",
+      "video_url": "cewekidaman4",
+      "voice_url": "cewekidaman4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Fake Call Cewek Idaman",
+      "image_url": "file:///android_asset/image/cewekidaman5.png",
+      "video_url": "cewekidaman5",
+      "voice_url": "cewekidaman5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Fake Call Cewek Idaman",
+      "image_url": "file:///android_asset/image/cewekidaman6.png",
+      "video_url": "cewekidaman6",
+      "voice_url": "cewekidaman6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Fake Call Cewek Idaman",
+      "image_url": "file:///android_asset/image/cewekidaman7.png",
+      "video_url": "cewekidaman7",
+      "voice_url": "cewekidaman7.mp3"
+    }
+  ]
+}
