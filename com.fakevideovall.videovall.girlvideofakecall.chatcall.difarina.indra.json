@@ -1,0 +1,121 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "FAke Call Cewek Jepang",
+      "image": "file:///android_asset/image/jepangid.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewek.jepang.cantik"
+    },
+    {
+      "id": 2,
+      "title": "FAke Call Cewek Idaman",
+      "image": "file:///android_asset/image/cewekidaman.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewek.idaman"
+    },
+    {
+      "id": 3,
+      "title": "Russian Girl Video Call",
+      "image": "file:///android_asset/image/rusiagirls.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.Russian.girls"
+    },
+    {
+      "id": 4,
+      "title": "FAke Call Cowok Vilmei MEicy Villia",
+      "image": "file:///android_asset/image/difarina.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.difarina.meicy"
+    },
+    {
+      "id": 5,
+      "title": "FAke Call Cewek Chindo",
+      "image": "file:///android_asset/image/chindo.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewe.pramk.pacar"
+    },
+    {
+      "id": 6,
+      "title": "FAke Call Cewek Korea Cantik",
+      "image": "file:///android_asset/image/koreaid.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewek.korea.cantik"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Video Call Difarina Indra",
+      "image_url": "file:///android_asset/image/difarina1.png",
+      "video_url": "difarina1",
+      "voice_url": "difarina1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Video Call Difarina Indraa",
+      "image_url": "file:///android_asset/image/difarina2.png",
+      "video_url": "difarina2",
+      "voice_url": "difarinar2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Video Call Difarina Indra",
+      "image_url": "file:///android_asset/image/difarina3.png",
+      "video_url": "difarina3",
+      "voice_url": "difarina3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Video Call Difarina Indra",
+      "image_url": "file:///android_asset/image/difarina4.png",
+      "video_url": "difarina4",
+      "voice_url": "difarina4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Video Call Difarina Indra",
+      "image_url": "file:///android_asset/image/difarina5.png",
+      "video_url": "difarina5",
+      "voice_url": "difarina5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Video Call Difarina Indra",
+      "image_url": "file:///android_asset/image/difarina6.png",
+      "video_url": "difarina6",
+      "voice_url": "difarina6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Video Call Difarina Indra",
+      "image_url": "file:///android_asset/image/difarina7.png",
+      "video_url": "difarina7",
+      "voice_url": "difarina7.mp3"
+    }
+  ]
+}
