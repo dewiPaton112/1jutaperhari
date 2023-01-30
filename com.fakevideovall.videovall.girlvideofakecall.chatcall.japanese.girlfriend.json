@@ -1,0 +1,121 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "FAke Call Girlfriend jepangsh",
+      "image": "file:///android_asset/image/jepangsh.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.jepangsh.girlfriend"
+    },
+    {
+      "id": 2,
+      "title": "FAke Call Cewek Idaman",
+      "image": "file:///android_asset/image/cewekidaman.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.cewek.idaman"
+    },
+    {
+      "id": 3,
+      "title": "Russian Girl Video Call",
+      "image": "file:///android_asset/image/rusiagirls.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.Russian.girls"
+    },
+    {
+      "id": 4,
+      "title": "FAke Call Cowok Vilmei MEicy Villia",
+      "image": "file:///android_asset/image/jepang.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.jepang.meicy"
+    },
+    {
+      "id": 5,
+      "title": "FAke Call Difarina indra",
+      "image": "file:///android_asset/image/difarina.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.difarina.indra"
+    },
+    {
+      "id": 6,
+      "title": "FAke Call Virginia Fonseca",
+      "image": "file:///android_asset/image/virginiafonseca.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.virginia.fonseca"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Japanese Fake Call Girlfriend",
+      "image_url": "file:///android_asset/image/jepang1.png",
+      "video_url": "jepang1",
+      "voice_url": "jepang1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Japanese Fake Call Girlfriend",
+      "image_url": "file:///android_asset/image/jepang2.png",
+      "video_url": "jepang2",
+      "voice_url": "jepangr2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Japanese Fake Call Girlfriend",
+      "image_url": "file:///android_asset/image/jepang3.png",
+      "video_url": "jepang3",
+      "voice_url": "jepang3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Japanese Fake Call Girlfriend",
+      "image_url": "file:///android_asset/image/jepang4.png",
+      "video_url": "jepang4",
+      "voice_url": "jepang4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Japanese Fake Call Girlfriend",
+      "image_url": "file:///android_asset/image/jepang5.png",
+      "video_url": "jepang5",
+      "voice_url": "jepang5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Japanese Fake Call Girlfriend",
+      "image_url": "file:///android_asset/image/jepang6.png",
+      "video_url": "jepang6",
+      "voice_url": "jepang6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Japanese Fake Call Girlfriend",
+      "image_url": "file:///android_asset/image/jepang7.png",
+      "video_url": "jepang7",
+      "voice_url": "jepang7.mp3"
+    }
+  ]
+}
