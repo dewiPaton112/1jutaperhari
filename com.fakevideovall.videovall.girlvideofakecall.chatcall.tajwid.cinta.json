@@ -1,0 +1,121 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "FAke Call Girlfriend Turkish",
+      "image": "file:///android_asset/image/turkish.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.turkish.girlfriend"
+    },
+    {
+      "id": 2,
+      "title": "Japanese Fake Call Girlfriend",
+      "image": "file:///android_asset/image/japanesegirlfriend.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.japanese.girlfriend"
+    },
+    {
+      "id": 3,
+      "title": "Koreaan Fake Call Girlfriend",
+      "image": "file:///android_asset/image/koreagirlfriend.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.korean.girlfriend"
+    },
+    {
+      "id": 4,
+      "title": "Koreaan Fake Call Boyfriend",
+      "image": "file:///android_asset/image/boyfriendkorea.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.boyfriend.korea"
+    },
+    {
+      "id": 5,
+      "title": "FAke Call Difarina indra",
+      "image": "file:///android_asset/image/difarina.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.difarina.indra"
+    },
+    {
+      "id": 6,
+      "title": "FAke Call Virginia Fonseca",
+      "image": "file:///android_asset/image/virginiafonseca.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.virginia.fonseca"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Panggilan Palsu Tajwid Cinta",
+      "image_url": "file:///android_asset/image/tajwidcinta1.png",
+      "video_url": "tajwidcinta1",
+      "voice_url": "tajwidcinta1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Panggilan Palsu Tajwid Cinta",
+      "image_url": "file:///android_asset/image/tajwidcinta2.png",
+      "video_url": "tajwidcinta2",
+      "voice_url": "tajwidcintar2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Panggilan Palsu Tajwid Cinta",
+      "image_url": "file:///android_asset/image/tajwidcinta3.png",
+      "video_url": "tajwidcinta3",
+      "voice_url": "tajwidcinta3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Panggilan Palsu Tajwid Cinta",
+      "image_url": "file:///android_asset/image/tajwidcinta4.png",
+      "video_url": "tajwidcinta4",
+      "voice_url": "tajwidcinta4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Panggilan Palsu Tajwid Cinta",
+      "image_url": "file:///android_asset/image/tajwidcinta5.png",
+      "video_url": "tajwidcinta5",
+      "voice_url": "tajwidcinta5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Panggilan Palsu Tajwid Cinta",
+      "image_url": "file:///android_asset/image/tajwidcinta6.png",
+      "video_url": "tajwidcinta6",
+      "voice_url": "tajwidcinta6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Panggilan Palsu Tajwid Cinta",
+      "image_url": "file:///android_asset/image/tajwidcinta7.png",
+      "video_url": "tajwidcinta7",
+      "voice_url": "tajwidcinta7.mp3"
+    }
+  ]
+}
