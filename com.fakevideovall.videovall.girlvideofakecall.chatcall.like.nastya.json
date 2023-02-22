@@ -1,0 +1,121 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "FAke Call Girlfriend Turkish",
+      "image": "file:///android_asset/image/turkish.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.turkish.girlfriend"
+    },
+    {
+      "id": 2,
+      "title": "Japanese Fake Call Girlfriend",
+      "image": "file:///android_asset/image/japanesegirlfriend.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.japanese.girlfriend"
+    },
+    {
+      "id": 3,
+      "title": "Koreaan Fake Call Girlfriend",
+      "image": "file:///android_asset/image/koreagirlfriend.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.korean.girlfriend"
+    },
+    {
+      "id": 4,
+      "title": "Koreaan Fake Call Boyfriend",
+      "image": "file:///android_asset/image/boyfriendkorea.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.boyfriend.korea"
+    },
+    {
+      "id": 5,
+      "title": "FAke Call Tajwid Cinta",
+      "image": "file:///android_asset/image/tajwidcinta.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.tajwid.cinta"
+    },
+    {
+      "id": 6,
+      "title": "FAke Call Virginia Fonseca",
+      "image": "file:///android_asset/image/virginiafonseca.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.virginia.fonseca"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Nastya Fake  Video Call Prank",
+      "image_url": "file:///android_asset/image/nastya1.png",
+      "video_url": "nastya1",
+      "voice_url": "nastya1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Nastya Fake  Video Call Prank",
+      "image_url": "file:///android_asset/image/nastya2.png",
+      "video_url": "nastya2",
+      "voice_url": "nastyar2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Nastya Fake  Video Call Prank",
+      "image_url": "file:///android_asset/image/nastya3.png",
+      "video_url": "nastya3",
+      "voice_url": "nastya3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Nastya Fake  Video Call Prank",
+      "image_url": "file:///android_asset/image/nastya4.png",
+      "video_url": "nastya4",
+      "voice_url": "nastya4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Nastya Fake  Video Call Prank",
+      "image_url": "file:///android_asset/image/nastya5.png",
+      "video_url": "nastya5",
+      "voice_url": "nastya5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Nastya Fake  Video Call Prank",
+      "image_url": "file:///android_asset/image/nastya6.png",
+      "video_url": "nastya6",
+      "voice_url": "nastya6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Nastya Fake  Video Call Prank",
+      "image_url": "file:///android_asset/image/nastya7.png",
+      "video_url": "nastya7",
+      "voice_url": "nastya7.mp3"
+    }
+  ]
+}
