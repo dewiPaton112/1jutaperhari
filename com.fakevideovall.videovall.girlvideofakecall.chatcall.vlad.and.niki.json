@@ -1,0 +1,121 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "FAke Call Girlfriend Turkish",
+      "image": "file:///android_asset/image/turkish.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.turkish.girlfriend"
+    },
+    {
+      "id": 2,
+      "title": "Japanese Fake Call Girlfriend",
+      "image": "file:///android_asset/image/japanesegirlfriend.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.japanese.girlfriend"
+    },
+    {
+      "id": 3,
+      "title": "Koreaan Fake Call Girlfriend",
+      "image": "file:///android_asset/image/koreagirlfriend.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.korean.girlfriend"
+    },
+    {
+      "id": 4,
+      "title": "Koreaan Fake Call Boyfriend",
+      "image": "file:///android_asset/image/boyfriendkorea.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.boyfriend.korea"
+    },
+    {
+      "id": 5,
+      "title": "FAke Call Tajwid Cinta",
+      "image": "file:///android_asset/image/tajwidcinta.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.tajwid.cinta"
+    },
+    {
+      "id": 6,
+      "title": "Like Nastya Video Call Prank",
+      "image": "file:///android_asset/image/likenastya.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.like.vladandviki"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Vlad and Niki Fake Call Prank",
+      "image_url": "file:///android_asset/image/vladandviki1.png",
+      "video_url": "vladandviki1",
+      "voice_url": "vladandviki1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Vlad and Niki Fake Call Prank",
+      "image_url": "file:///android_asset/image/vladandviki2.png",
+      "video_url": "vladandviki2",
+      "voice_url": "vladandvikir2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Vlad and Niki Fake Call Prank",
+      "image_url": "file:///android_asset/image/vladandviki3.png",
+      "video_url": "vladandviki3",
+      "voice_url": "vladandviki3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Vlad and Niki Fake Call Prank",
+      "image_url": "file:///android_asset/image/vladandviki4.png",
+      "video_url": "vladandviki4",
+      "voice_url": "vladandviki4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Vlad and Niki Fake Call Prank",
+      "image_url": "file:///android_asset/image/vladandviki5.png",
+      "video_url": "vladandviki5",
+      "voice_url": "vladandviki5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Vlad and Niki Fake Call Prank",
+      "image_url": "file:///android_asset/image/vladandviki6.png",
+      "video_url": "vladandviki6",
+      "voice_url": "vladandviki6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Vlad and Niki Fake Call Prank",
+      "image_url": "file:///android_asset/image/vladandviki7.png",
+      "video_url": "vladandviki7",
+      "voice_url": "vladandviki7.mp3"
+    }
+  ]
+}
