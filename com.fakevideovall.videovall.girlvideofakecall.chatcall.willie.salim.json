@@ -1,0 +1,121 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id": 1,
+      "title": "FAke Call Vlad and Niki",
+      "image": "file:///android_asset/image/vladandniki.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.vlad.and.niki"
+    },
+    {
+      "id": 2,
+      "title": "Ninna e Matti Video Call Prank",
+      "image": "file:///android_asset/image/ninnaematti.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.ninna.ematti"
+    },
+    {
+      "id": 3,
+      "title": "Koreaan Fake Call Girlfriend",
+      "image": "file:///android_asset/image/koreagirlfriend.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.korean.girlfriend"
+    },
+    {
+      "id": 4,
+      "title": "Koreaan Fake Call Boyfriend",
+      "image": "file:///android_asset/image/boyfriendkorea.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.boyfriend.korea"
+    },
+    {
+      "id": 5,
+      "title": "FAke Call Tajwid Cinta",
+      "image": "file:///android_asset/image/tajwidcinta.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.tajwid.cinta"
+    },
+    {
+      "id": 6,
+      "title": "Like Nastya Video Call Prank",
+      "image": "file:///android_asset/image/likenastya.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fakevideovall.videovall.girlvideofakecall.chatcall.like.williesalim"
+    }
+  ],
+  "Item": [
+    {
+      "id": 0,
+      "name": "Willie Salim Video Call Prank",
+      "image_url": "file:///android_asset/image/williesalim1.png",
+      "video_url": "williesalim1",
+      "voice_url": "williesalim1.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Willie Salim Video Call Prank",
+      "image_url": "file:///android_asset/image/williesalim2.png",
+      "video_url": "williesalim2",
+      "voice_url": "williesalimr2.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Willie Salim Video Call Prank",
+      "image_url": "file:///android_asset/image/williesalim3.png",
+      "video_url": "williesalim3",
+      "voice_url": "williesalim3.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Willie Salim Video Call Prank",
+      "image_url": "file:///android_asset/image/williesalim4.png",
+      "video_url": "williesalim4",
+      "voice_url": "williesalim4.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Willie Salim Video Call Prank",
+      "image_url": "file:///android_asset/image/williesalim5.png",
+      "video_url": "williesalim5",
+      "voice_url": "williesalim5.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Willie Salim Video Call Prank",
+      "image_url": "file:///android_asset/image/williesalim6.png",
+      "video_url": "williesalim6",
+      "voice_url": "williesalim6.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Willie Salim Video Call Prank",
+      "image_url": "file:///android_asset/image/williesalim7.png",
+      "video_url": "williesalim7",
+      "voice_url": "williesalim7.mp3"
+    }
+  ]
+}
